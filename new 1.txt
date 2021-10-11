@@ -1,0 +1,21 @@
+-catagories [with count]
+
+-properity :
+	-name
+	-location 
+	-type [sale-rent]
+	-price
+	-area
+	-beds_number
+	-baths_number
+
+-agents:
+	-name
+	-title
+	-image
+	
+-About us:
+	-text
+	-mission
+	-vision
+	
